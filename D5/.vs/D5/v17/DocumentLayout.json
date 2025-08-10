@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yaswa\\source\\repos\\D5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9651BE38-C5D4-33A7-84C2-BE003AEDA448}|D5.dwproj|C:\\Users\\yaswa\\source\\repos\\D5\\D5 Star Schema.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9651BE38-C5D4-33A7-84C2-BE003AEDA448}|D5.dwproj|solutionrelative:D5 Star Schema.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9651BE38-C5D4-33A7-84C2-BE003AEDA448}|D5.dwproj|C:\\Users\\yaswa\\source\\repos\\D5\\D5.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9651BE38-C5D4-33A7-84C2-BE003AEDA448}|D5.dwproj|solutionrelative:D5.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9651BE38-C5D4-33A7-84C2-BE003AEDA448}|D5.dwproj|C:\\Users\\yaswa\\source\\repos\\D5\\Audience.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9651BE38-C5D4-33A7-84C2-BE003AEDA448}|D5.dwproj|solutionrelative:Audience.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9651BE38-C5D4-33A7-84C2-BE003AEDA448}|D5.dwproj|C:\\Users\\yaswa\\source\\repos\\D5\\Genre.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9651BE38-C5D4-33A7-84C2-BE003AEDA448}|D5.dwproj|solutionrelative:Genre.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9651BE38-C5D4-33A7-84C2-BE003AEDA448}|D5.dwproj|C:\\Users\\yaswa\\source\\repos\\D5\\Region.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9651BE38-C5D4-33A7-84C2-BE003AEDA448}|D5.dwproj|solutionrelative:Region.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9651BE38-C5D4-33A7-84C2-BE003AEDA448}|D5.dwproj|C:\\Users\\yaswa\\source\\repos\\D5\\Time.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9651BE38-C5D4-33A7-84C2-BE003AEDA448}|D5.dwproj|solutionrelative:Time.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "D5.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\yaswa\\source\\repos\\D5\\D5.dsv",
+              "RelativeDocumentMoniker": "D5.dsv",
+              "ToolTip": "C:\\Users\\yaswa\\source\\repos\\D5\\D5.dsv [Design]",
+              "RelativeToolTip": "D5.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-25T10:12:34.301Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Audience.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\yaswa\\source\\repos\\D5\\Audience.dim",
+              "RelativeDocumentMoniker": "Audience.dim",
+              "ToolTip": "C:\\Users\\yaswa\\source\\repos\\D5\\Audience.dim [Design]",
+              "RelativeToolTip": "Audience.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-25T06:23:33.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genre.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\yaswa\\source\\repos\\D5\\Genre.dim",
+              "RelativeDocumentMoniker": "Genre.dim",
+              "ToolTip": "C:\\Users\\yaswa\\source\\repos\\D5\\Genre.dim [Design]",
+              "RelativeToolTip": "Genre.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-25T06:23:15.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Region.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\yaswa\\source\\repos\\D5\\Region.dim",
+              "RelativeDocumentMoniker": "Region.dim",
+              "ToolTip": "C:\\Users\\yaswa\\source\\repos\\D5\\Region.dim [Design]",
+              "RelativeToolTip": "Region.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-25T06:22:57.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Time.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\yaswa\\source\\repos\\D5\\Time.dim",
+              "RelativeDocumentMoniker": "Time.dim",
+              "ToolTip": "C:\\Users\\yaswa\\source\\repos\\D5\\Time.dim [Design]",
+              "RelativeToolTip": "Time.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-25T06:22:40.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "D5 Star Schema.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\yaswa\\source\\repos\\D5\\D5 Star Schema.cube",
+              "RelativeDocumentMoniker": "D5 Star Schema.cube",
+              "ToolTip": "C:\\Users\\yaswa\\source\\repos\\D5\\D5 Star Schema.cube [Design]",
+              "RelativeToolTip": "D5 Star Schema.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-25T06:22:28.792Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

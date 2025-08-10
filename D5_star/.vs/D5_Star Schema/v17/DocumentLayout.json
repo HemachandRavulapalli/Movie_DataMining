@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yaswa\\source\\repos\\D5_star\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E0F2DA-AD75-3A96-199A-4411FDFC072E}|D5_Star Schema.dwproj|C:\\Users\\yaswa\\source\\repos\\D5_star\\D5_Star Schema.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A7E0F2DA-AD75-3A96-199A-4411FDFC072E}|D5_Star Schema.dwproj|solutionrelative:D5_Star Schema.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E0F2DA-AD75-3A96-199A-4411FDFC072E}|D5_Star Schema.dwproj|C:\\Users\\yaswa\\source\\repos\\D5_star\\Movies DB.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A7E0F2DA-AD75-3A96-199A-4411FDFC072E}|D5_Star Schema.dwproj|solutionrelative:Movies DB.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "D5_Star Schema.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\yaswa\\source\\repos\\D5_star\\D5_Star Schema.cube",
+              "RelativeDocumentMoniker": "D5_Star Schema.cube",
+              "ToolTip": "C:\\Users\\yaswa\\source\\repos\\D5_star\\D5_Star Schema.cube [Design]",
+              "RelativeToolTip": "D5_Star Schema.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-25T10:52:16.378Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movies DB.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\yaswa\\source\\repos\\D5_star\\Movies DB.dsv",
+              "RelativeDocumentMoniker": "Movies DB.dsv",
+              "ToolTip": "C:\\Users\\yaswa\\source\\repos\\D5_star\\Movies DB.dsv [Design]",
+              "RelativeToolTip": "Movies DB.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-25T10:52:14.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

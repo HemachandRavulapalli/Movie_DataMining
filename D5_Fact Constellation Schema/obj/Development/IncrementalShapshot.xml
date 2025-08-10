@@ -1,0 +1,89 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>D5_Fact Constellation Schema</Database>
+    <Server>localhost</Server>
+    <ConnectionString>Data Source=localhost;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>lP5vXUcdhCqYgsxq3Bfe5wVjnJc=26-03-2025 01:17:47 PM25-03-2025 06:14:14 PM</TimeStamp>
+        <ID>
+          <String>Movies DB</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>Xl4+DlZ7txaYeX3YQYxAduw79jQ=26-03-2025 01:17:58 PM26-03-2025 01:17:57 PM</TimeStamp>
+        <ID>
+          <String>Movies DB</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>Ik956sAN6r9AlDrhgQ6VsCxoioc=25-03-2025 06:17:39 PM25-03-2025 06:15:36 PM</TimeStamp>
+        <ID>
+          <String>Audience</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>vrrknnqAOA4aWn+drx+ZsfihvCI=25-03-2025 06:18:06 PM25-03-2025 06:15:36 PM</TimeStamp>
+        <ID>
+          <String>Genre</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>jXxw8R0vMkOngtr1kQy6EcU4xVU=25-03-2025 06:18:26 PM25-03-2025 06:15:36 PM</TimeStamp>
+        <ID>
+          <String>Time</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>xPJqvXI/89uaGu/iXtI8YLr1ZIg=25-03-2025 06:19:48 PM25-03-2025 06:15:36 PM</TimeStamp>
+        <ID>
+          <String>Region</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>M6bFlsn3nHrUzVMM2atiVvjf7+I=25-03-2025 06:17:12 PM25-03-2025 06:15:36 PM</TimeStamp>
+        <ID>
+          <String>Movie Performance</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>WA7fCl6bIa7lPcuJSCBNGSS2i3c=26-03-2025 01:24:06 PM26-03-2025 01:18:26 PMvxUkrSKiKsNtswaQrmojM+mogv0=26-03-2025 01:18:27 PM26-03-2025 01:18:26 PM</TimeStamp>
+        <ID>
+          <String>D5_Fact Costellation Schema</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>nm0vCshn28jev0xZic5AdJ3spOg=25-03-2025 06:13:55 PM25-03-2025 06:13:54 PM</TimeStamp>
+      <ID>
+        <String>D5_Fact Constellation Schema</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2025-04-03T12:30:32.446667Z</LastDeployed>
+</DeploymentSnapshot>
